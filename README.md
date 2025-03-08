@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saurabhvybs
-- 👀 I’m interested in Web Dev, DSA ,WEB3
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on MERN Stack Projects
-- 📫 You Can Reach Me At psaurabh51@gmail.com
+- 👀 I’m interested in Web Development,AI/ML
+- 🌱 Seasoned Developer with lot of grinding and crushing by senior developers.
+- 💞️ I’m looking to collaborate on MERN/ AI projects.
+- 📫 You Can Reach Me At saurabhthejosephite@gmail.com
 
 
 <!---
