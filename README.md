@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @saurabhvybs<br>👀 I’m interested in Web Development,AI/ML<br>🌱 Seasoned Developer with lot of grinding and crushing by senior developers.<br>💞️ I’m looking to collaborate on MERN/ AI projects.<br>📫 You Can Reach Me At saurabhthejosephite@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvybs&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvybs" /> </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhvybs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhthejosephite@gmail.com) 
