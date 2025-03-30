@@ -17,8 +17,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=saurabhvybs.saurabhvybs&color=blue&label=Visitors)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
