@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @saurabhvybs<br>👀 I’m interested in Web Development,AI/ML<br>🌱 Seasoned Developer with lot of grinding and crushing by senior developers.<br>💞️ I’m looking to collaborate on MERN/ AI projects.<br>📫 You Can Reach Me At saurabhthejosephite@gmail.com
+👋 Hi, I’m @saurabhvybs<br>👀 I’m a Seasoned FullStack Web/Android Developer <br>🌱 Frontend: REACT.js, NEXT.js, REACT NATIVE(Expo), REDUX, RECOIL, TAILWIND CSS, ShadCN.<br>💞️ Backend: Node.js, Javascript, Typescript, Python, FastAPI, Express.js, HONO.<br>🔋 Database: MongoDb, PostgreSQL, Supabase, Firebase, Redis, Cassandra<br>☁️ GCP, Docker, Kubernetes. <br>📫 You Can Reach Me At saurabhthejosephite@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvybs&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvybs" /> </p>
 
